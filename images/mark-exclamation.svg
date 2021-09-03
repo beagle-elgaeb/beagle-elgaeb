@@ -1,0 +1,24 @@
+<svg width="8" height="28" viewBox="0 0 8 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f)">
+<path d="M4 4L4 16.8571V16.1429" stroke="#80FFB5" stroke-opacity="0.8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M4 4L4 16.8571V16.1429" stroke="#4CFF97" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4 4L4 16.8571V16.1429" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g filter="url(#filter1_f)">
+<path d="M4 21.1429L4 24V23.2857" stroke="#80FFB5" stroke-opacity="0.8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M4 21.1429L4 24V23.2857" stroke="#4CFF97" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4 21.1429L4 24V23.2857" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_f" x="0.345157" y="0.345156" width="7.30969" height="20.1668" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.327422" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter1_f" x="0.345156" y="17.488" width="7.30969" height="10.1668" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.327422" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>
