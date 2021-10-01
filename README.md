@@ -29,7 +29,7 @@
   <a href="https://ru.wikipedia.org/wiki/REST"><img src="images/icon-api.svg" alt="REST API"></a>
   <img src="images/icon-whitespace-5px.svg"/>
   <a href="https://ru.reactjs.org/"><img src="images/icon-react.svg" alt="React"></a>
-  <img src="readme/icon-whitespace-5px.svg"/>
+  <img src="images/icon-whitespace-5px.svg"/>
   <a href="https://nodejs.org/ru/docs/"><img src="images/icon-node.svg" alt="NodeJS"></a>
 </p>
   
