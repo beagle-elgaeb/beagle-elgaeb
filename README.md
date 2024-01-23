@@ -37,7 +37,7 @@ I am frontend development, with a focus on React
 
 <img src="images/line.svg"/><img src="images/line.svg"/><img src="images/line.svg"/><img src="images/line.svg"/><img src="images/line.svg"/><img src="images/line.svg"/><img src="images/line.svg"/><img src="images/line.svg"/><img src="images/line.svg"/><img src="images/line.svg"/>
 
-<a href="https://github.com/beagle-elgaeb/bagel">Тестовое задание от 09.10.2923</a>
+<a href="https://github.com/beagle-elgaeb/bagel">Тестовое задание от 09.10.2023</a>
 
 <p>Было необходимо отрисовать карточку с кольцевой диаграммой по данному изображению и по возможностьи/желанию добавить действия при наведении на сектор диаграммы. Так же я добавила действие по наведению на тектовые подсказки.</p>
   
